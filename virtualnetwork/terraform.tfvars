@@ -6,12 +6,5 @@ vnet = {
     address_space       = ["10.0.0.0/16"]
 
   }
-  vnet2 = {
-    name                = "vnet-2"
-    location            = "centralindia"
-    resource_group_name = "pasharg-1"
-    address_space       = ["10.0.0.0/16"]
 
-  }
-  
 }
